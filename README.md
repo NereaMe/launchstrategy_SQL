@@ -3,11 +3,11 @@
 _Introduction_: This project analyzes Rockbuster Stealth LLC's data to provide key insights for their new online video rental service. As the data strategist, I aim to help Rockbuster make data-driven decisions in the face of competition from streaming services.
 
 **Key Questions**:
-- Which movies generate the most revenue?
-- What is the average rental duration for videos?
-- What are the demographics of Rockbuster customers?
-- Where are the high-value customer locations?
-- How do sales compare across different regions?
+- Which movies contributed the most/least to revenue gain
+- Where are customers with a high lifetime value based?
+- Which countries are Rockbuster customers based in?
+- Do sales figures vary between geographic regions?
+- What was the average rental duration for all videos?
   
 **Context**: This analysis utilizes SQL to delve into Rockbuster's film inventory, customer data, and transactions. 
 By answering these questions, we aim to guide Rockbuster's strategy for transitioning to an online service, offering insights applicable across industries.
